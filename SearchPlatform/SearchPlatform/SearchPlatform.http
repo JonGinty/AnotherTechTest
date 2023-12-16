@@ -1,0 +1,6 @@
+@SearchPlatform_HostAddress = http://localhost:5293
+
+GET {{SearchPlatform_HostAddress}}/search/
+Accept: application/json
+
+###

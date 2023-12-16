@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  font-family: monospace;
+}
+
+.App > p {
+  text-align: left;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
